@@ -5,6 +5,8 @@ class logic
     boolean CheckPalindrome(int iNo)
     {
         int iDigit = 0;
+        int iRDigit = 0;
+        int iRev = iNo;
 
         while(iNo != 0)
         {
@@ -13,7 +15,7 @@ class logic
             iNo = iNo / 10;
         }
 
-        if(iDigit == iNo)
+        if(iRDigit == iRev)
         {
             return true;
         }
@@ -48,5 +50,6 @@ class Question2
         }
 
     }    
+
 
 } 
