@@ -1,3 +1,9 @@
+/*
+    Accept number from user and display below pattern.
+    Input : 5
+    Output : A B C D E
+*/
+
 import java.util.Scanner;
 
 class Pattern
@@ -28,3 +34,4 @@ public class Question1
         pobj.Display(iValue);
     }
 }
+
