@@ -1,3 +1,14 @@
+/*
+    1. Accept number of rows and number of columns from user and display
+    below pattern.
+    Input : iRow = 4 iCol = 3
+    
+    Output :  * * *
+              * * *
+              * * *
+              * * *
+*/
+
 import java.util.Scanner;
 
 class Pattern
@@ -36,3 +47,4 @@ public class Question1
         pobj.Display(iValue1, iValue2);
     }
 }
+
