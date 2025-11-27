@@ -1,3 +1,12 @@
+/*
+    2. Accept number of rows and number of columns from user and display below
+    pattern.
+    Input : iRow = 4 iCol = 4
+    Output : A B C D
+             a b c d
+             A B C D
+             a b c d 
+*/
 #include<stdio.h>
 
 void Display(int iRow, int iCol)
@@ -42,4 +51,5 @@ int main()
     Display(iValue1, iValue2);
 
     return 0;
+
 }
