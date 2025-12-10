@@ -1,3 +1,5 @@
+//Check if number is divisible by 5
+
 #include<stdio.h>
 #include<stdbool.h>
 
@@ -33,4 +35,5 @@ int main()
     }
 
     return 0;
+
 }
