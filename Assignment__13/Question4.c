@@ -1,3 +1,5 @@
+//Find sum of first N natural numbers
+
 #include<stdio.h>
 
 int NumAddition(int iNo)
@@ -25,4 +27,5 @@ int main()
     printf("The Addition is : %d\n", iResult);
 
     return 0;
+
 }
