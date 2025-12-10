@@ -1,3 +1,5 @@
+//Write a program which accept number from user and count frequency of 4 in it. 
+
 #include<stdio.h>
 #include<stdbool.h>
 
@@ -39,3 +41,4 @@ int main()
     
     return 0;
 }
+
