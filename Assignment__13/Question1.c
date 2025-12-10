@@ -1,3 +1,5 @@
+//Print all numbers from 1 to N
+
 #include<stdio.h>
 
 void Display(int iNo)
@@ -20,4 +22,5 @@ int main()
     Display(iValue);
 
     return 0;
+
 }
