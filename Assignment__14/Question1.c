@@ -1,3 +1,5 @@
+//Write a program which accept number from user and display its digits in reverse order.
+
 #include<stdio.h>
 #include<stdbool.h>
 
@@ -30,3 +32,4 @@ int main()
 
     return 0;
 }
+
