@@ -1,3 +1,5 @@
+// Print all factors of a number
+
 #include<stdio.h>
 
 void Display(int iNo)
@@ -23,4 +25,5 @@ int main()
     Display(iValue);
 
     return 0;
+
 }
