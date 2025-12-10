@@ -1,3 +1,5 @@
+//Sum of even factors (exclude the number itself
+
 #include<stdio.h>
 
 int Display(int iNo)
@@ -28,4 +30,5 @@ int main()
     printf("The Addition is : %d\n", iResult);
     
     return 0;
+
 }
