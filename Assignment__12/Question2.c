@@ -1,3 +1,5 @@
+//Count total factors of a number
+
 #include<stdio.h>
 
 int Display(int iNo)
@@ -28,4 +30,5 @@ int main()
     printf("The number of factors are : %d\n", iResult);
     
     return 0;
+
 }
