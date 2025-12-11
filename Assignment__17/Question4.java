@@ -1,3 +1,5 @@
+//Write a program to find the minimum of three numbers.
+
 import java.util.Scanner;
 
 class logic
@@ -42,5 +44,6 @@ class Question4
         System.out.println("The smallest number is " + iResult);
         
     }    
+
 
 } 
