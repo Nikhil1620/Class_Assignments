@@ -1,3 +1,5 @@
+//Write a program to check whether a number is a palindrome or not.
+
 import java.util.Scanner;
 
 class logic
@@ -53,3 +55,4 @@ class Question2
 
 
 } 
+
