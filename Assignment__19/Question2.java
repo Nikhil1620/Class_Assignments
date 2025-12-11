@@ -1,3 +1,5 @@
+//Write a program to display the grade of a student based on marks.
+
 import java.util.Scanner;
 
 class Function
@@ -42,4 +44,5 @@ class Question2
 
         fobj.DisplayGrade(iMarks);
     }
+
 }
