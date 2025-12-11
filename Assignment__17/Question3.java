@@ -1,3 +1,5 @@
+//Write a program to find the maximum of two numbers.
+
 import java.util.Scanner;
 
 class logic
@@ -35,5 +37,6 @@ class Question3
         System.out.println("The maximum number is " + iResult);
         
     }    
+
 
 } 
