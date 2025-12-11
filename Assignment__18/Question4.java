@@ -1,3 +1,5 @@
+//Write a program to find the sum of even and odd digits separately in a number.
+
 import java.util.Scanner;
 
 class function1
@@ -74,3 +76,4 @@ class Question4
 
     }
 }
+
