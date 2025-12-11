@@ -1,3 +1,5 @@
+//Write a program to calculate the power of a number using loops.
+
 import java.util.Scanner;
 
 class Function
@@ -31,4 +33,5 @@ class Question4
         fobj.DisplayDigits(iValue);
 
     }
+
 }
