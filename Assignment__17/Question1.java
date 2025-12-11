@@ -1,3 +1,5 @@
+//Write a program to find the sum of digits of a number.
+
 import java.util.Scanner;
 
 class logic
@@ -35,5 +37,6 @@ class Question1
         System.out.println("The Addition is "  + iAddition);
 
     }    
+
 
 } 
