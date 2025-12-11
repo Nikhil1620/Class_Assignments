@@ -1,3 +1,5 @@
+//Write a program to check whether a given year is a leap year or not.
+    
 import java.util.Scanner;
 
 class Function
@@ -29,4 +31,5 @@ class Question1
 
         fobj.CheckLeap(iyear);
     }
+
 }
