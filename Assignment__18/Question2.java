@@ -1,3 +1,5 @@
+//Write a program to print all even numbers up to N.
+
 import java.util.Scanner;
 
 class function
@@ -36,3 +38,4 @@ class Question2
 
     }
 }
+
