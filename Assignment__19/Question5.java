@@ -1,3 +1,5 @@
+//Write a program to calculate the power of a number using loops.
+
 import java.util.Scanner;
 
 class Function
@@ -38,4 +40,5 @@ class Question5
         System.out.println("The Answer is : " + iResult);
 
     }
+
 }
