@@ -1,3 +1,5 @@
+//Write a program to print the multiplication table of a number.
+
 import java.util.Scanner;
 
 class logic
@@ -28,5 +30,6 @@ class Question5
         lobj.DisplayTable(iValue);
 
     }    
+
 
 } 
