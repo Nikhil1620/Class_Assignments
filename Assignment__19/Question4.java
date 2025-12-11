@@ -1,4 +1,4 @@
-//Write a program to calculate the power of a number using loops.
+//Write a program to print each digit of a number separately.
 
 import java.util.Scanner;
 
@@ -35,3 +35,4 @@ class Question4
     }
 
 }
+
