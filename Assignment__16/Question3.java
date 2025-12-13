@@ -1,3 +1,5 @@
+//Write a program to find the factorial of a number using a for loop.
+
 import java.util.Scanner;
 
 class logic
@@ -26,5 +28,6 @@ class Question3
         lobj.DisplayFactorial(iValue);
 
     }    
+
 
 } 
