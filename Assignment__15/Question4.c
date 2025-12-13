@@ -1,3 +1,5 @@
+//Write a program which accept number from user and return multiplication of all digits.
+
 #include<stdio.h>
 #include<stdbool.h>
 
@@ -35,3 +37,4 @@ int main()
     
     return 0;
 }
+
