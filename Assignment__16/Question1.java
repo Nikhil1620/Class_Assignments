@@ -1,3 +1,4 @@
+//Write a program to calculate the sum of first N natural numbers.
 
 class logic
 {
@@ -26,4 +27,5 @@ class Question1
 
         System.out.println("The Sum is " + iRet);
     }
+
 }
