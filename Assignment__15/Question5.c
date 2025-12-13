@@ -1,3 +1,5 @@
+//Write a program which accept number from user and return difference between summation of even digits and summation of odd digits
+
 #include<stdio.h>
 #include<stdbool.h>
 
@@ -51,3 +53,4 @@ int main()
     
     return 0;
 }
+
