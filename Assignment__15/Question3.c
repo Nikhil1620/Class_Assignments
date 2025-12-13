@@ -1,3 +1,5 @@
+//Write a program which accept number from user and return the count of digits in between 3 and 7.
+
 #include<stdio.h>
 #include<stdbool.h>
 
@@ -39,3 +41,4 @@ int main()
     
     return 0;
 }
+
