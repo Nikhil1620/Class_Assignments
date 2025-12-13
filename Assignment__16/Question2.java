@@ -1,3 +1,5 @@
+//Write a program to check whether a given number is even or odd.
+
 import java.util.Scanner;
 
 class logic
@@ -38,5 +40,6 @@ class Question2
             System.out.println("The number is Odd.");
         }
     }    
+
 
 } 
