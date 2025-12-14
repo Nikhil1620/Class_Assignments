@@ -1,3 +1,5 @@
+//Write a program to find the smallest digit in a given number.
+
 import java.util.Scanner;
 
 class Function
@@ -38,4 +40,5 @@ class Question5
         System.out.println("The largest digit is : " + iResult);
 
     }
+
 }
