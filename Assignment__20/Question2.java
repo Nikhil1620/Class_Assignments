@@ -1,3 +1,5 @@
+//Write a program to print numbers from N down to 1 in reverse order.
+
 import java.util.Scanner;
 
 class Function
@@ -24,4 +26,5 @@ class Question2
         Function fobj = new Function();
         fobj.DisplayReverseNum(iValue);
     }
+
 }
