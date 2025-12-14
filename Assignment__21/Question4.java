@@ -1,3 +1,5 @@
+//Write a program to count total number of factors of a given number.
+
 import java.util.Scanner;
 
 class Function
@@ -40,4 +42,5 @@ class Question4
         System.out.println("The factor count of given number is : " + iResult);
 
     }
+
 }
