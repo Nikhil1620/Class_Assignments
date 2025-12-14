@@ -1,3 +1,5 @@
+//Write a program to find the sum of all even numbers up to N.
+
 import java.util.Scanner;
 
 class Function
@@ -35,4 +37,5 @@ class Question1
 
         System.out.println("The Even Sum is " + iResult);
     }
+
 }
