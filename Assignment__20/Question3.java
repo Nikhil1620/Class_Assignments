@@ -1,3 +1,5 @@
+//Write a program to check whether a number is a perfect number or not.
+
 import java.util.Scanner;
 
 class Function
@@ -40,4 +42,5 @@ class Question3
             System.out.println("The number is not perfect.");
         }
     }
+
 }
