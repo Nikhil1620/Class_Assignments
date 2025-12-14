@@ -1,3 +1,5 @@
+//Write a program to calculate the product of digits of a number.
+
 import java.util.Scanner;
 
 class Function
@@ -35,4 +37,5 @@ class Question1
         System.out.println("The product is : " + iResult);
 
     }
+
 }
