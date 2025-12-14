@@ -1,3 +1,5 @@
+//Write a program to count how many even and odd numbers are present between 1 and N.
+
 import java.util.Scanner;
 
 class Function
@@ -55,4 +57,5 @@ class Question2
         System.out.println("The count of Odd number is : " + iResult2);
 
     }
+
 }
