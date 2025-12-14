@@ -1,3 +1,5 @@
+//Write a program to print all numbers from 1 to N that are divisible by both 2 and 3.
+
 import java.util.Scanner;
 
 class Function
@@ -36,4 +38,5 @@ class Question5
         fobj.Display(iValue);
 
     }
+
 }
