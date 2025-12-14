@@ -1,3 +1,5 @@
+//Write a program to reverse a number.
+
 import java.util.Scanner;
 
 class logic
@@ -28,5 +30,6 @@ class Question4
         lobj.DisplayReverse(iValue);
 
     }    
+
 
 } 
