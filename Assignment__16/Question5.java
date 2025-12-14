@@ -1,3 +1,5 @@
+//Write a program to count the number of digits in a given number.
+
 import java.util.Scanner;
 
 class logic
@@ -35,5 +37,6 @@ class Question5
         System.out.println("The number of digits are " + iFrequency);
 
     }    
+
 
 } 
