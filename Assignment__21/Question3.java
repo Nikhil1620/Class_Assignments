@@ -1,3 +1,5 @@
+//Write a program to display all factors of a given number
+
 import java.util.Scanner;
 
 class Function
@@ -34,4 +36,5 @@ class Question3
         fobj.DisplayFactors(iValue);
 
     }
+
 }
