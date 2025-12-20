@@ -1,3 +1,5 @@
+//Accept N numbers from user and return frequency of 11 form it. 
+
 #include<stdio.h>
 #include<stdlib.h>
 
@@ -49,4 +51,5 @@ int main()
     free(ptr);
 
     return 0;
+
 }
