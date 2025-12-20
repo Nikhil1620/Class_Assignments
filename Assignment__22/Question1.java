@@ -1,3 +1,5 @@
+//Accept N numbers from user and return frequency of even numbers.
+
 import java.util.Scanner;
 
 class ArrayX
@@ -77,4 +79,5 @@ class Question1
 
         System.gc();
     }
+
 }
