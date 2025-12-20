@@ -1,3 +1,5 @@
+//Accept N numbers from user and accept Range, Display all elements from that range
+
 import java.util.Scanner;
 
 class ArrayX
@@ -79,4 +81,5 @@ class Question4
 
         System.gc();
     }
+
 }
