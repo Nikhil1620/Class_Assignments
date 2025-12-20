@@ -1,3 +1,5 @@
+//Accept N numbers from user and return difference between frequency of even number and odd numbers.
+
 #include<stdio.h>
 #include<stdbool.h>
 #include<stdlib.h>
@@ -62,4 +64,5 @@ int main()
     free(ptr);
 
     return 0;
+
 }
