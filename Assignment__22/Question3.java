@@ -1,3 +1,5 @@
+//Accept N numbers from user check whether that numbers contains 11 in it or not. 
+
 import java.util.Scanner;
 
 class ArrayX
@@ -84,4 +86,5 @@ class Question3
 
         System.gc();
     }
+
 }
