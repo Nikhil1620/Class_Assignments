@@ -1,3 +1,5 @@
+//Accept N numbers from user and accept one another number as NO return frequency of NO form it.
+    
 #include<stdio.h>
 #include<stdlib.h>
 
@@ -53,4 +55,5 @@ int main()
     free(ptr);
 
     return 0;
+
 }
