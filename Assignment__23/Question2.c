@@ -1,3 +1,5 @@
+//Accept N numbers from user and accept one another number as NO , return index of first occurrence of that NO. 
+
 #include<stdio.h>
 #include<stdlib.h>
 
@@ -60,4 +62,5 @@ int main()
     free(ptr);
 
     return 0;
+
 }
