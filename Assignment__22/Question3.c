@@ -1,4 +1,4 @@
-//Accept N numbers from user and return difference between frequency of even number and odd numbers.
+//Accept N numbers from user check whether that numbers contains 11 in it or not. 
 
 #include<stdio.h>
 #include<stdbool.h>
@@ -66,3 +66,4 @@ int main()
     return 0;
 
 }
+
