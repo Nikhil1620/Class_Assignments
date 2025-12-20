@@ -1,3 +1,5 @@
+//Accept N numbers from user and accept one another number as NO ,return index of first occurrence of that NO. 
+
 import java.util.Scanner;
 
 class ArrayX
@@ -86,4 +88,5 @@ class Question2
 
         System.gc();
     }
+
 }
