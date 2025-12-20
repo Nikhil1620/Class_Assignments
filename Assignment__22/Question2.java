@@ -1,3 +1,5 @@
+//Accept N numbers from user and return difference between frequency of even number and odd numbers.
+
 import java.util.Scanner;
 
 class ArrayX
@@ -95,4 +97,5 @@ class Question2
 
         System.gc();
     }
+
 }
