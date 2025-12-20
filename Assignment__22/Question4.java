@@ -1,3 +1,5 @@
+//Accept N numbers from user and return frequency of 11 form it. 
+
 import java.util.Scanner;
 
 class ArrayX
@@ -77,4 +79,5 @@ class Question4
 
         System.gc();
     }
+
 }
