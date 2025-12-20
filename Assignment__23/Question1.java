@@ -1,3 +1,5 @@
+//Accept N numbers from user and accept one another number as NO , check whether NO is present or not.
+
 import java.util.Scanner;
 
 class ArrayX
@@ -86,4 +88,5 @@ class Question1
 
         System.gc();
     }
+
 }
