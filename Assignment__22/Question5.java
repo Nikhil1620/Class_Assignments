@@ -1,3 +1,5 @@
+//Accept N numbers from user and accept one another number as NO return frequency of NO form it.
+
 import java.util.Scanner;
 
 class ArrayX
@@ -80,4 +82,5 @@ class Question5
 
         System.gc();
     }
+
 }
