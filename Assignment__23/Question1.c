@@ -1,3 +1,5 @@
+//Accept N numbers from user and accept one another number as NO , check whether NO is present or not.
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<stdbool.h>
@@ -59,4 +61,5 @@ int main()
     free(ptr);
 
     return 0;
+
 }
