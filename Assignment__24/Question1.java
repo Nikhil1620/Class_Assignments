@@ -1,4 +1,4 @@
-//Accept N numbers from user and return the smallest number.
+//Accept N numbers from user and return the largest number. 
 
 import java.util.Scanner;
 
@@ -83,3 +83,4 @@ class Question1
     }
 
 }
+
