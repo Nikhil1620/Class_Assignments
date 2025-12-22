@@ -1,3 +1,5 @@
+//Accept N numbers from user and return difference between summation of even elements and summation of odd elements.
+
 #include<stdio.h>
 #include<stdlib.h>
 
@@ -65,4 +67,5 @@ int main()
     free(ptr);
 
     return 0;
+
 }
