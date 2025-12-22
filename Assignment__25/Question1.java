@@ -1,3 +1,5 @@
+//Accept N numbers from user and return difference between summation of even elements and summation of odd elements.
+
 import java.util.Scanner;
 
 class ArrayX
@@ -90,4 +92,5 @@ class Question1
 
         System.gc();
     }
+
 }
