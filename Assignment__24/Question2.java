@@ -1,4 +1,4 @@
-//Accept N numbers from user and display all such numbers which contains 3 digits in it. 
+//Accept N numbers from user and return the smallest number. 
 
 import java.util.Scanner;
 
@@ -83,3 +83,4 @@ class Question2
     }
 
 }
+
