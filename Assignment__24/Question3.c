@@ -1,4 +1,5 @@
-//Accept N numbers from user and display summation of digits of each number.
+//Accept N numbers from user and return the difference between largest and smallest number. 
+
 
 #include<stdio.h>
 #include<stdlib.h>
@@ -69,3 +70,4 @@ int main()
     return 0;
 
 }
+
