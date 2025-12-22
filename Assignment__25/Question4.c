@@ -1,3 +1,5 @@
+//Accept N numbers from user and display all such elements which are divisible by 3 and 5.
+
 #include<stdio.h>
 #include<stdlib.h>
 
@@ -44,4 +46,5 @@ int main()
     free(ptr);
 
     return 0;
+
 }
