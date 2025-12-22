@@ -1,4 +1,4 @@
-//Accept N numbers from user and return the difference between largest and smallest number.
+//Accept N numbers from user and return the smallest number. 
     
 #include<stdio.h>
 #include<stdlib.h>
@@ -52,3 +52,4 @@ int main()
     return 0;
 
 }
+
