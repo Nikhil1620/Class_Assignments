@@ -1,3 +1,5 @@
+//Accept N numbers from user and display all such elements which are divisible by 3 and 5.
+
 import java.util.Scanner;
 
 class ArrayX
@@ -73,4 +75,5 @@ class Question4
 
         System.gc();
     }
+
 }
