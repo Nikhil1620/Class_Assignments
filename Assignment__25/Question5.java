@@ -1,3 +1,5 @@
+//Accept N numbers from user and display all such elements which are multiples of 11.
+
 import java.util.Scanner;
 
 class ArrayX
@@ -73,4 +75,5 @@ class Question5
 
         System.gc();
     }
+
 }
