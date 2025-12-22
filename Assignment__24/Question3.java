@@ -1,3 +1,5 @@
+//Accept N numbers from user and return the difference between largest and smallest number. 
+
 import java.util.Scanner;
 
 class ArrayX
@@ -96,4 +98,5 @@ class Question3
 
         System.gc();
     }
+
 }
