@@ -1,3 +1,5 @@
+//Accept N numbers from user and display summation of digits of each number.
+
 #include<stdio.h>
 #include<stdlib.h>
 
@@ -50,4 +52,5 @@ int main()
     free(ptr);
 
     return 0;
+
 }
