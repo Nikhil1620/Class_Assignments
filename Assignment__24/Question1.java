@@ -1,3 +1,5 @@
+//Accept N numbers from user and return the smallest number.
+
 import java.util.Scanner;
 
 class ArrayX
@@ -79,4 +81,5 @@ class Question1
 
         System.gc();
     }
+
 }
