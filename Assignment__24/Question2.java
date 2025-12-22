@@ -1,3 +1,5 @@
+//Accept N numbers from user and display all such numbers which contains 3 digits in it. 
+
 import java.util.Scanner;
 
 class ArrayX
@@ -79,4 +81,5 @@ class Question2
 
         System.gc();
     }
+
 }
