@@ -1,3 +1,5 @@
+//Accept N numbers from user and display summation of digits of each number.
+
 import java.util.Scanner;
 
 class ArrayX
@@ -79,4 +81,5 @@ class Question5
 
         System.gc();
     }
+
 }
