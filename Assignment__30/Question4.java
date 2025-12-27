@@ -6,6 +6,7 @@ Output : * * * * *
          * @ @ @ *
          * @ @ @ *
          * @ @ @ * 
+         * * * * *
 */
 
 import java.util.Scanner;
@@ -63,4 +64,5 @@ public class Question4
         pobj.Display(iValue1, iValue2);
     }
 }
+
 
